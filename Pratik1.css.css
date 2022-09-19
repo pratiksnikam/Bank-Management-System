@@ -1,0 +1,43 @@
+.btn{
+    background-color:#ff523b;
+}
+.card-body {
+    /* border: 1px dotted green; */
+    width: 400px;
+    align-self: center;
+}
+.card-header {
+    /* border: 1px dotted green; */
+    width: 400px;
+    align-self: center;
+}
+.card{
+    /* border: 1px dotted green; */
+    width: 600px;
+    margin-left: 400px;
+    border-radius: 20px 30px;
+}
+
+.S{
+    display: none;
+}
+ol li {
+    text-decoration: none;
+}
+.P:hover .S{
+   display: contents;
+   position: relative;
+}
+.navbar-brand{
+    font-size: 20px;
+   position: absolute;
+   
+}
+.animate__animated{
+    display: inline-block;
+    font-size: 20px;
+    animation-iteration-count: infinite;
+    animation-duration: 2s;
+    /* margin-left: 30px; */
+}
+
